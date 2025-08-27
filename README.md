@@ -26,8 +26,8 @@ pip install pygame
 Clone the repository and run the main script:
 
 ```bash
-git clone https://github.com/yourusername/sudoku-game.git
-cd sudoku-game
+git clone https://github.com/yourusername/sudoku.git
+cd sudoku
 python main.py
 ```
 ---

@@ -8,8 +8,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from config import config
 from frame import Frame
 
-    
-
 class StatsPage(Frame):
     def __init__(self, app, window, settings):
         super().__init__(window)
